@@ -1,6 +1,6 @@
 # https://alex1056.github.io/
 
-##v0.0.3
+##v0.0.5
 **Sprint 10, task: RegExp**
 **Student: Alexander Besov**
 _in v0.0.5 fixed all cvalidation patterns_
